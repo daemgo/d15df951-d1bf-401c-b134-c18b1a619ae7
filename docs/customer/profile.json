@@ -1,95 +1,145 @@
 {
   "profile": {
-    "companyName": "",
-    "shortName": "",
+    "companyName": "楔子科技有限公司",
+    "shortName": "楔子科技",
     "isListed": false,
     "stockCode": "",
     "website": "",
-    "industry": "",
-    "subIndustry": "",
-    "scale": "",
-    "mainBusiness": "",
-    "products": [],
-    "targetCustomers": [],
-    "businessModel": "",
+    "industry": "企业服务",
+    "subIndustry": "SaaS/AI工具",
+    "scale": "微型",
+    "mainBusiness": "AI驱动的B2B销售智能助手平台，基于Claude Code提供销售赋能工具集",
+    "products": [
+      "客户档案生成 (profile)",
+      "销售进攻指南 (sales-guide)",
+      "需求分析 (requirements)",
+      "解决方案撰写 (plan-writer)",
+      "产品规格说明 (spec-writer)",
+      "AI洞察分析 (insights)",
+      "知识库管理 (knowledge-base)"
+    ],
+    "targetCustomers": [
+      "B2B销售团队",
+      "企业数字化转型部门",
+      "SaaS厂商"
+    ],
+    "businessModel": "SaaS订阅/工具授权",
     "rating": "",
-    "tags": [],
+    "tags": [
+      "AI",
+      "销售赋能",
+      "Claude Skills",
+      "B2B"
+    ],
 
-    "summary": "",
+    "summary": "科技 · SaaS/AI工具 · 微型 · 初创期",
 
     "registration": {
-      "foundedDate": "",
-      "registeredCapital": "",
-      "paidInCapital": "",
-      "ownershipType": "",
+      "foundedDate": "未知（推测2025-2026年）",
+      "registeredCapital": "未知",
+      "paidInCapital": "未知",
+      "ownershipType": "民营企业",
       "branches": {
-        "count": "",
+        "count": "0",
         "locations": []
       },
-      "legalRisks": "",
-      "operatingAnomalies": "",
-      "penalties": "",
-      "summary": ""
+      "legalRisks": "未知",
+      "operatingAnomalies": "未知",
+      "penalties": "无",
+      "summary": "基于有限信息推断，建议通过工商平台确认"
     },
 
     "policyAnalysis": {
       "isSpecialized": false,
-      "isDigitalTransformation": false,
+      "isDigitalTransformation": true,
       "isESG": false,
       "isHighTech": false,
-      "policySupportLevel": "",
-      "leverageStrategy": ""
+      "policySupportLevel": "低",
+      "leverageStrategy": "可借助企业数字化转型趋势销售"
     },
 
     "timing": {
-      "currentPhase": "",
-      "evidence": "",
-      "entryStrategy": ""
+      "currentPhase": "初创期",
+      "evidence": "项目版本0.1.0，功能持续迭代",
+      "entryStrategy": "轻量级合作，POC试用"
     },
 
     "creditRisk": {
-      "legalRisk": "",
-      "operationalRisk": "",
-      "creditRating": "",
-      "warnings": [],
-      "salesAdvice": ""
+      "legalRisk": "未知",
+      "operationalRisk": "早期项目资金状况待确认",
+      "creditRating": "未知",
+      "warnings": [
+        "信息有限，需进一步核实"
+      ],
+      "salesAdvice": "关注付款能力，考虑轻量级合作模式"
     },
 
     "organization": {
-      "type": "",
-      "decisionChain": "",
-      "keyPersons": [],
-      "salesStrategy": ""
+      "type": "初创团队",
+      "decisionChain": "短，关键人决策",
+      "keyPersons": [
+        {
+          "name": "未知",
+          "role": "创始人/负责人",
+          "priority": "高"
+        }
+      ],
+      "salesStrategy": "直接对接创始人，快速决策"
     },
 
     "strategy": {
-      "phase": "",
-      "growthStage": "",
-      "competitivePosition": "",
-      "digitalMaturity": "",
-      "analysisPath": "",
-      "informationQuality": "",
+      "phase": "初创期",
+      "growthStage": "产品打磨与市场验证",
+      "competitivePosition": "细分市场（AI销售助手）",
+      "digitalMaturity": "高",
+      "analysisPath": "Path B",
+      "informationQuality": "低",
       "expansionSignals": [],
       "contractionSignals": [],
-      "riskSignals": []
+      "riskSignals": [
+        "信息有限"
+      ]
     },
 
     "techStack": {
-      "current": [],
-      "inferred": [],
-      "maturity": "",
-      "direction": ""
+      "current": [
+        "Next.js 16",
+        "React 19",
+        "TypeScript 5",
+        "shadcn/ui",
+        "Tailwind CSS v4"
+      ],
+      "inferred": [
+        "Claude Code / Claude Skills"
+      ],
+      "maturity": "高",
+      "direction": "AI Agent / 销售自动化"
     },
 
-    "keyMetrics": [],
+    "keyMetrics": [
+      {
+        "label": "团队规模",
+        "value": "< 10人（推测）",
+        "trend": null
+      },
+      {
+        "label": "项目版本",
+        "value": "0.1.0",
+        "trend": null
+      }
+    ],
 
     "metadata": {
-      "createdAt": "",
-      "updatedAt": "",
-      "createdBy": "",
-      "version": "",
-      "sources": [],
-      "confidence": 0
+      "createdAt": "2026-03-11",
+      "updatedAt": "2026-03-11",
+      "createdBy": "AI",
+      "version": "1.0",
+      "sources": [
+        "项目README.md",
+        "package.json",
+        "技能定义文件"
+      ],
+      "confidence": 30
     }
   }
 }
